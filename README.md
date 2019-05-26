@@ -3,3 +3,4 @@
 ### In this project, we detect forest wildfire from given satellite images. I have used CNN, with a training dataset of 2000 images. 
 
 ## Demo:
+<img src="pics/demo.gif"/>
